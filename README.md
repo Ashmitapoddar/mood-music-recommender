@@ -19,17 +19,17 @@ Hugging Face model: j-hartmann/emotion-english-distilroberta-base
 Used for emotion classification from user input text
 
 🛠 Built With
-Python
+- Python
+- Streamlit
+- Pandas
+- Hugging Face Transformers
+- PyTorch
 
-Streamlit
+Live App
 
-Pandas
-
-Hugging Face Transformers
-
-PyTorch
+https://mood-music-recommender-bwzkab9ypzqdqcuwgwgetm.streamlit.app/#ai-based-mood-music-recommender
 
 ✨ Credits
-Created by Ashmita 💙 as part of internship/project work
+Created by Ashmita with 💙 
 
 Dataset from Spotify via Kaggle
