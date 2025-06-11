@@ -1,6 +1,6 @@
-import treamlit
-import pandas
-import scikit-learn
-import transformers
-import torch
-import sentencepiece
+streamlit
+pandas
+scikit-learn
+transformers
+torch
+sentencepiece
