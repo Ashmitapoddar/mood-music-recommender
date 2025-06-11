@@ -111,4 +111,4 @@ if user_input:
         st.warning("😕 No songs found for this mood. Try describing your mood differently.")
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: gray;'>Made with ❤️ by Mizi using NLP, Streamlit & Spotify</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray;'>Made with ❤️ by Ashmita using NLP, Streamlit & Spotify</p>", unsafe_allow_html=True)
